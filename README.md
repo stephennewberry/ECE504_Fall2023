@@ -5,7 +5,7 @@ Coursework for University of Idaho, Fall 2023, ECE504
 ## Pre-requisites
 Must have Pytorch installed to load the included model
 
-## Feautures
+## Features
 Using a basic substrate (8mil dielectric, Dk/Df = 3.68/0.0087) this tool will calculate either of the following for a simple uncoated microstrip trace:
 * Z0/Electrical Length from Trace Width and Trace Length (Analysis)
 * Trace Width and Trace Length from Z0 and Electrical Length (Synthesis)
